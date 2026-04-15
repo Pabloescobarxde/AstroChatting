@@ -5,8 +5,8 @@ export const ats = {
     debug: false
   },
 
-  protocolo: "http://",
-  errs: "165.1.121.161",
+  protocolo: "https://",
+  errs: "astroswatting.vercel.app",
   port: "3005",
   extension: "/api/v0/token"
   

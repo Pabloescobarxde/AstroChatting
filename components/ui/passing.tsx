@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fix errores en ejecucion de java",
   "last_update": "2026-04-14",
   "url": "https://github.com/Pabloescobarxde/AstroChatting/blob/main/components/ui/freeze.rangerv0",
